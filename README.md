@@ -1,7 +1,3 @@
-Absolutely! Here's a polished and professional rewrite of your GitHub profile `README.md`, incorporating your updated skills like TypeScript, Next.js, and full MERN stack:
-
----
-
 ## 👋 Hi, I’m Christopher Piggott (@Cpiggott-lab)
 
 I’m a full-stack web developer passionate about building creative, interactive, and meaningful web apps.
