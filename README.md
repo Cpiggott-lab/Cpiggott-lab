@@ -1,14 +1,40 @@
-👋 Hi, I’m @Cpiggott-lab
+Absolutely! Here's a polished and professional rewrite of your GitHub profile `README.md`, incorporating your updated skills like TypeScript, Next.js, and full MERN stack:
 
-👀 I’m interested in full-stack web development, JavaScript, React, and building creative, interactive web apps.
+---
 
-🌱 I’m currently learning advanced React concepts, backend development with Node.js and Express, and improving my problem-solving skills with algorithms.
+## 👋 Hi, I’m Christopher Piggott (@Cpiggott-lab)
 
-💞️ I’m looking to collaborate on web development projects, especially ones focused on education, games, or useful tools for everyday life.
+I’m a full-stack web developer passionate about building creative, interactive, and meaningful web apps.
 
-📫 How to reach me: LinkedIn - Christopher Piggott
+### 👨‍💻 What I’m Working On
 
-⚡ Fun fact: I have dug wells for clean drinking water in El Salvador and Mexico rural villages. 
+* Crafting apps with **React**, **Next.js**, and the full **MERN stack**
+* Building smarter tools powered by **OpenAI** integrations
+* Learning advanced **TypeScript**, backend API design, and scalable architecture
+
+### 🌱 Currently Learning
+
+* **Advanced React & Next.js** concepts
+* **Node.js** and **Express** for robust backend development
+* **Prisma** and **MongoDB/PostgreSQL** for data modeling
+* Sharpening my **algorithm & problem-solving** skills
+
+### 💡 I’m Interested In
+
+* Edtech, gamified learning, and productivity tools
+* Collaborating on open-source or portfolio-worthy full-stack projects
+* Building tools that are actually *useful* and fun to use
+
+### 📫 Reach Me
+
+* **LinkedIn**: [https://www.linkedin.com/in/christopher-piggott-3bbb54351/]
+* 
+* Or open an issue or DM me on GitHub!
+
+### ⚡ Fun Fact
+
+I’ve traveled to El Salvador and Mexico to dig wells for clean water in rural communities. 🌎💧
+
 
 <!---
 Cpiggott-lab/Cpiggott-lab is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
