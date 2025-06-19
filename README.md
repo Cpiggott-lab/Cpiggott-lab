@@ -28,7 +28,6 @@ I’m a full-stack web developer passionate about building creative, interactive
 ### 📫 Reach Me
 
 * **LinkedIn**: [https://www.linkedin.com/in/christopher-piggott-3bbb54351/]
-* 
 * Or open an issue or DM me on GitHub!
 
 ### ⚡ Fun Fact
