@@ -1,37 +1,28 @@
-## 👋 Hi, I’m Christopher Piggott (@Cpiggott-lab)
+About
+Mechatronics engineer working on robotic arms and intelligent automation systems. My background in full‑stack development now supports building tools, interfaces, and infrastructure around robotics and control software.
 
-I’m a full-stack web developer passionate about building creative, interactive, and meaningful web apps.
+Current Focus
+Design and integration of robotic arm systems (mechanics, electronics, and control)
 
-### 👨‍💻 What I’m Working On
+Motion control, kinematics, and real‑time communication with actuators and sensors
 
-* Crafting apps with **React**, **Next.js**, and the full **MERN stack**
-* Building smarter tools powered by **OpenAI** integrations
-* Learning advanced **TypeScript**, backend API design, and scalable architecture
+Applying practical machine learning and tooling to improve robotics workflows
 
-### 🌱 Currently Learning
+Technical Background
+Robotics and embedded: mechatronic design, motor control, hardware integration
 
-* **Advanced React & Next.js** concepts
-* **Node.js** and **Express** for robust backend development
-* **Prisma** and **MongoDB/PostgreSQL** for data modeling
-* Sharpening my **algorithm & problem-solving** skills
+Software: TypeScript, Node.js, Python, REST APIs, basic cloud deployment
 
-### 💡 I’m Interested In
+Formerly full‑stack: React, Next.js, MERN stack for dashboards and internal tools
 
-* Edtech, gamified learning, and productivity tools
-* Collaborating on open-source or portfolio-worthy full-stack projects
-* Building tools that are actually *useful* and fun to use
+Interests
+Robotic manipulation, automation, and human–machine interfaces
 
-### 📫 Reach Me
+Bridging “traditional” engineering with modern software practices
 
-* **LinkedIn**: [https://www.linkedin.com/in/christopher-piggott-3bbb54351/]
-* Or open an issue or DM me on GitHub!
+Building tools that are robust, maintainable, and actually useful in the lab or on the shop floor
 
-### ⚡ Fun Fact
+Contact
+LinkedIn: https://www.linkedin.com/in/christopher-piggott-3bbb54351/
 
-I’ve traveled to El Salvador and Mexico to dig wells for clean water in rural communities. 🌎💧
-
-
-<!---
-Cpiggott-lab/Cpiggott-lab is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+For anything related to repositories here, feel free to open an issue or start a discussion.
