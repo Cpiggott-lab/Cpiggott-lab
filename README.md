@@ -1,24 +1,15 @@
-I am Mechatronics engineer working on robotic arms and intelligent automation systems. My background in full‑stack development now supports building tools, interfaces, and infrastructure around robotics and control software.
+R&D Lead Engineer – Embodied & Applied AI
+Designing and integrating robotic arm systems for intelligent automation: mechanics, electronics, motion control, kinematics, and real‑time communication with actuators and sensors.
 
+At the same time, building the software that makes these systems actually useful in the lab and on the shop floor:
 
-Currently focused on design and integration of robotic arm systems (mechanics, electronics, and control)
+Tooling, interfaces, and infrastructure around robotics and control software
 
-Motion control, kinematics, and real‑time communication with actuators and sensors
+Practical ML and agentic AI to improve robotics workflows
 
-Applying practical machine learning and tooling to improve robotics workflows
+Full‑stack systems (TypeScript, Node.js, Python, REST, basic cloud) for dashboards, HMI, and internal tools
 
-My background is originally in Web Development but has taken a turn into Robotics and embedded: mechatronic design, motor control, hardware integration
+Background: originally full‑stack web dev (React, Next.js, MERN), now mechatronic design, motor control, and hardware integration applied to real automation problems.
 
-Software: TypeScript, Node.js, Python, REST APIs, basic cloud deployment
-
-Formerly full‑stack: React, Next.js, MERN stack for dashboards and internal tools
-
-My Interests are Robotic manipulation, automation, and human–machine interfaces
-
-Bridging “traditional” engineering with modern software practices
-
-Building tools that are robust, maintainable, and actually useful in the lab or on the shop floor
-
-Feel free to reach out to me at LinkedIn: https://www.linkedin.com/in/christopher-piggott-3bbb54351/
-
-For anything related to repositories here, feel free to open an issue or start a discussion.
+Feel free to reach out on LinkedIn: https://www.linkedin.com/in/christopher-piggott-3bbb54351/
+For anything related to repositories here, open an issue or start a discussion.
